@@ -13,7 +13,26 @@
 /* SECTION FOUR */
 
 /* SECTION FIVE */
-
+body {
+    background-image: url(https://i.pinimg.com/564x/67/3b/b4/673bb456c28c49cc9d5cbccd49f0b3ce.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h2 {
+    margin: 1000px 50px 10px 50px;
+    text-align: center;
+    font-size: xx-large;
+}
+p {
+    margin: 20px 30px 20px 30px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: large;
+}
+.btn {
+    align-items: center;
+}
 /* SECTION SIX */
 
 
